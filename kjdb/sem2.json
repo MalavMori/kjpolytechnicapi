@@ -1,0 +1,30 @@
+{
+    "show":true,
+    "data":[
+        {
+            "title":"Physics",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4300005.pdf"
+        },
+        {
+            "title":"Engineering Mathematics",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4320002.pdf"
+        },
+        {
+            "title":"Electronic and Computer Workshop",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4320701.pdf"
+        },
+        {
+            "title":"Basic Object Oriented Programming",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4320702.pdf"
+        },
+        {
+            "title":"Basics of Digital Electronics",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4320703.pdf"
+        },
+        {
+            "title":"Static Web Page Design",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4311603.pdf"
+        }
+        
+    ]
+}

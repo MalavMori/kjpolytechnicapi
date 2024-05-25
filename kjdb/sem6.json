@@ -1,0 +1,26 @@
+{
+    "show":true,
+    "data":[
+        {
+            "title":"Computer Maintenance and Troubleshooting",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4360701.pdf"
+        },
+        {
+            "title":"Basics of information Security",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4360702.pdf"
+        },
+        {
+            "title":"Fundamentals of IoT",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4360703.pdf"
+        },
+        {
+            "title":"Introduction to NO SQL",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4360704.pdf"
+        },
+        {
+            "title":"Cloud Computing",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4360709.pdf"
+        }
+        
+    ]
+}

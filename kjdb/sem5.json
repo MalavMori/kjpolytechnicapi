@@ -1,0 +1,29 @@
+{
+    "show":true,
+    "data":[
+        {
+            "title":"Internship Project",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4350704.pdf"
+        },
+        {
+            "title":"Entrepreneurship and Start-ups",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4300021.pdf"
+        },
+        {
+            "title":"Computer Organization and Architecture",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4350701.pdf"
+        },
+        {
+            "title":"Introduction to Machine Learning",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4350702.pdf"
+        },
+        {
+            "title":"Mobile Application Development using Android",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4350703.pdf"
+        },
+        {
+            "title":"Advance Computer Network",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4350706.pdf"
+        }
+    ]
+}

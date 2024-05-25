@@ -1,0 +1,29 @@
+{
+    "show":true,
+    "data":[
+        {
+            "title":"Integrated Personality Development Course",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4340003.pdf"
+        },
+        {
+            "title":"Advanced Object Oriented Programming",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4340701.pdf"
+        },
+        {
+            "title":"Introduction to Software Engineering",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4340702.pdf"
+        },
+        {
+            "title":"Computer Networking",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4340703.pdf"
+        },
+        {
+            "title":"Introduction to Web Development",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4340704.pdf"
+        },
+        {
+            "title":"Modern Practical Tools",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4340705.pdf"
+        }
+    ]
+}

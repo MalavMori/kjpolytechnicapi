@@ -1,0 +1,29 @@
+{
+    "show":true,
+    "data":[
+        {
+            "title":"Mathematics",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4300001.pdf"
+        },
+        {
+            "title":"COMMUNICATION SKILLS IN ENGLISH",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4300002.pdf"
+        },
+        {
+            "title":"Fundamentals of Electricals and Electronics",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4300018.pdf"
+        },
+        {
+            "title":"Environment and Sustainability",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4300003.pdf"
+        },
+        {
+            "title":"Fundamentals of Computer",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4310701.pdf"
+        },
+        {
+            "title":"Basic Computer Programming",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4310702.pdf"
+        }
+    ]
+}

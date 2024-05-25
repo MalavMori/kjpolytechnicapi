@@ -1,0 +1,29 @@
+{
+    "show":true,
+    "data":[
+        {
+            "title":"Summer Internship-I",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4330001.pdf"
+        },
+        {
+            "title":"Scripting Language - Python",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4330701.pdf"
+        },
+        {
+            "title":"Relational Database Management System",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4330702.pdf"
+        },
+        {
+            "title":"Basics of Operating System",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4330703.pdf"
+        },
+        {
+            "title":"Data Structures and Algorithms",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4330704.pdf"
+        },
+        {
+            "title":"Responsive Web Page Design",
+            "pdfuri":"https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/4330705.pdf"
+        }
+    ]
+}
